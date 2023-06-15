@@ -6,13 +6,17 @@
 ![gettyimages-578997497-2048x2048](https://github.com/steveaker/power-BI/assets/135893015/2d0d144d-5191-48d5-8bc3-b01bf0480b36)
 
 # Introduction
-I came across dataset online from Mary’s pharmaceutical store and cherished how well and organized the data is and hence have dived in to practice my skills of data cleaning, analysis and visualization.
+I came across dataset online from Mary’s pharmaceutical store and cherished how well and organized the data is and hence have dived in to practice my skills of data cleaning, analysis and visualization  
 
 
 Power BI Concept Applied
-  •	DAX Concepts: calculated column,
-  •	Custom column, year(), IF ().
-  •	Data modelling: Star schema (*:1)
+•	DAX Concepts: calculated column,
+•	Custom column, year(), IF ().
+•	Data modelling: Star schema (*:1)
+
+
+
+
 
 
 # Problem Statement
